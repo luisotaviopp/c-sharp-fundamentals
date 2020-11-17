@@ -1,0 +1,11 @@
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.deps.json
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.json
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.dev.json
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.pdb
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csprojAssemblyReference.cache
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.CoreCompileInputs.cache
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfoInputs.cache
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfo.cs
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.pdb

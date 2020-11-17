@@ -1,0 +1,17 @@
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.deps.json
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.runtimeconfig.json
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.runtimeconfig.dev.json
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.Tests.pdb
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.csprojAssemblyReference.cache
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.csproj.CoreCompileInputs.cache
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.AssemblyInfoInputs.cache
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.AssemblyInfo.cs
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.pdb
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.dll
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.2/GradeBook.pdb
+/home/luiszim/Documents/dotnet-lab/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.2/GradeBook.Tests.csproj.CopyComplete
